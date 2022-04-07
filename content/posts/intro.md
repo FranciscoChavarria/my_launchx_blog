@@ -17,5 +17,6 @@ Para mi la cultura de un desarrollador de software se basa en lo siguiente:
 - Espiritu de equipo
 - Diversión
 - Autodidacta
+- Paciencia y mucha
 
 Esto es lo principal que se debe de tener en una buena cultura de desarrollo de software.
