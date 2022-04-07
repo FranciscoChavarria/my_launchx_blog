@@ -12,4 +12,4 @@ Los puntos o aprendizajes que se adquirieron hasta este momento son los siguient
 - js 
 - un poco de Vue.js
 
-y continuamos con el aprendizaje...
+y continuamos con el aprendizaje..
