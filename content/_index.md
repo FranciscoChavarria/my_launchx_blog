@@ -9,7 +9,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
-- Aplicar los conocimientos adquiridos front-end.
+- Aplicar los conocimientos adquiridos frontend.
 - Aprender de la experiencia que nos aporta nuestro MC Carlo.
 - Aprender Git y Github y lo que nos enseñe xD.
 - Aprender Backend y todo las herramientas que se necesitan para agilizar el trabajo.
